@@ -1,0 +1,26 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Form1.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Properties.Resources.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.GenerateResource.Cache
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211217\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.pdb
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.exe
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.pdb
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.AssemblyReference.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Form1.resources
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Properties.Resources.resources
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.GenerateResource.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.CoreCompileInputs.cache
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.exe
+C:\Users\JoaoGabriel\source\repos\SAI-PRCA2-2021217-main\WFA_projLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.pdb
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.exe.config
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.exe
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\bin\Debug\WFA_projLEDS.pdb
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.AssemblyReference.cache
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Form1.resources
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.Properties.Resources.resources
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.GenerateResource.cache
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.csproj.CoreCompileInputs.cache
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.exe
+E:\Faculdade\Semestre DP\PRCA2\WFA_ProgLEDS-main\WFA_projLEDS-main\WFA_ProgLEDS\WFA_projLEDS\obj\x86\Debug\WFA_projLEDS.pdb
