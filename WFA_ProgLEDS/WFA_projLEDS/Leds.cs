@@ -28,7 +28,6 @@ namespace WFA_projLEDS
         }
         public bool getEstado(int led)
         {
-            // alguma coisa -> foi feita >:D
 
             byte checador = (byte)((int)this.estado & (int)Math.Pow(2, led - 1));
             return (checador !=0);
